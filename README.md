@@ -1,8 +1,9 @@
-A game of hide-and-seek: Estimating individual fitness in the wild
+Code for "Estimating individual fitness in the wild using capture-recapture data"
+Gimenez and Gaillard https://link.springer.com/article/10.1007/s10144-017-0598-x 
+PDF available [here](https://oliviergimenez.github.io/pubs/Gimenez&Gaillard2017PopEcol.pdf)
 ==================================================
 
-We provide here the code to estimate fitness while accounting for imperfect detection of individuals in the wild. We consider lifetime reproductive success (à la Clutton-Brock), individual growth rate (à la McGraw and Caswell) and lifetime individual contribution to population growth (à la Coulson). We illustrate our approach using individual data on a population of roe deer. This is an appendix for a paper submitted for a special issue that will be published in Population Ecology.
-The paper is entitled: 'A game of hide-and-seek: Estimating individual fitness in the wild' and is co-authored with Jean-Michel Gaillard.
+We provide here the code to estimate fitness while accounting for imperfect detection of individuals in the wild. We consider lifetime reproductive success (à la Clutton-Brock), individual growth rate (à la McGraw and Caswell) and lifetime individual contribution to population growth (à la Coulson). We illustrate our approach using individual data on a population of roe deer. This is an appendix for our paper "Estimating individual fitness in the wild using capture-recapture data" published in Population Ecology.
 
 This repository contains the following files:
 
