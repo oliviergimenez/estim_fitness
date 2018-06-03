@@ -1,7 +1,7 @@
 Code for "Estimating individual fitness in the wild using capture-recapture data"
 ==================================================
 
-The paper we wrote is available at https://link.springer.com/article/10.1007/s10144-017-0598-x. You can get a PDF from [here](https://oliviergimenez.github.io/pubs/Gimenez&Gaillard2017PopEcol.pdf)
+The paper we wrote is available at https://link.springer.com/article/10.1007/s10144-017-0598-x. You can get a PDF from [here](https://oliviergimenez.github.io/pubs/Gimenez&Gaillard2017PopEcol.pdf) :wink:
 
 We provide here the code to estimate fitness while accounting for imperfect detection of individuals in the wild. We consider lifetime reproductive success (à la Clutton-Brock), individual growth rate (à la McGraw and Caswell) and lifetime individual contribution to population growth (à la Coulson). We illustrate our approach using individual data on a population of roe deer. This is an appendix for our paper "Estimating individual fitness in the wild using capture-recapture data" published in Population Ecology.
 
